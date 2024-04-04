@@ -2,7 +2,7 @@ import 'dart:ffi';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:flutter_application_1/features/sqlite/presentation/pages/person_model.dart';
+import 'package:flutter_application_1/features/sqlite/data/models/person_model.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:sqflite/sqflite.dart';
 

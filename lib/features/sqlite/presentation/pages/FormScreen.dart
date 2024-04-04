@@ -3,7 +3,7 @@ import 'package:country_pickers/country.dart';
 import 'package:country_pickers/country_pickers.dart';
 import 'package:flutter_application_1/components.dart';
 import 'package:flutter_application_1/features/sqlite/presentation/cubit/sqlite_cubit.dart';
-import 'package:flutter_application_1/myhome.dart';
+import 'package:flutter_application_1/features/sqlite/presentation/pages/myhome.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_conditional_rendering/conditional.dart';
 import 'package:intl/intl.dart';

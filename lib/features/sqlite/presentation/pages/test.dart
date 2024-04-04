@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 //import 'package:flutter_application_1/features/sqlite/data/models/person.dart';
 import 'package:flutter_application_1/features/sqlite/presentation/cubit/sqlite_cubit.dart';
-import 'package:flutter_application_1/features/sqlite/presentation/pages/person_model.dart';
+import 'package:flutter_application_1/features/sqlite/data/models/person_model.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 //import 'package:country_icons/country_icons.dart';
 
